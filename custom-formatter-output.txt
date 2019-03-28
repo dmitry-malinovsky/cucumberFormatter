@@ -1,0 +1,11 @@
+[
+  {
+    "line": 1,
+    "elements": [],
+    "name": "Sending email",
+    "description": "",
+    "id": "sending-email",
+    "keyword": "Feature",
+    "uri": "SendMail.feature"
+  }
+]
